@@ -96,7 +96,7 @@ const HeaderTwo = () => {
                       <circle cx="2" cy="12" r="2" fill="#0E63FF" />
                     </svg>
                     <span>Help Desk :</span>
-                    <a href="tel:+18442003277"> 1 (844) 200 3277 </a>
+                    <a href="tel:+18442003277"> This is a change </a>
                   </div>
                 </div>
                 <div className="col-lg-8">
