@@ -9,7 +9,7 @@ const footer_content = {
       title: "Useful links",
       cls: "footer-col-2",
       links: [
-        { name: "Contact us", link: "/contact-us" },
+        { name: "Funkey Change", link: "/contact-us" },
         { name: "Help & About us", link: "/about" },
         { name: "Shipping & Returns", link: "/shop-details" },
         { name: "Refund Policy", link: "/shop-details" },
