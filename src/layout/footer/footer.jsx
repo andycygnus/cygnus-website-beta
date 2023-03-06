@@ -10,7 +10,7 @@ const footer_content = {
       cls: "footer-col-2",
       links: [
         { name: "Funkey Change", link: "/contact-us" },
-        { name: "Help & About us", link: "/about" },
+        { name: "CHANGE About us", link: "/about" },
         { name: "Shipping & Returns", link: "/shop-details" },
         { name: "Refund Policy", link: "/shop-details" },
         { name: "About us", link: "/about" },
